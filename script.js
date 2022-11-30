@@ -31,14 +31,14 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing",{
-        strings: ["A CSE Undergrad at SRM IST ", "Web Developer", "A UX Designer", "A Competitve Programmar", 'Web3 and Open Source Enthusisast'],
+        strings: ["A CSE Undergrad at SRM IST ", "Front End Web Developer", "A UX Designer", "A Competitve Programmer", 'Web3 and Open Source Enthusisast'],
         typeSpeed: 80,
         backSpeed: 40,
         loop: true
     });
 
     var typed = new Typed(".typing-2",{
-        strings: ["Competitve Programmer", "Web Developer",  "UX Designer" ,"Open Source Enthusiast"],
+        strings: ["Competitve Programmer", "Front End Web Developer",  "UX Designer" ,"Open Source Enthusiast"],
         typeSpeed: 100,
         backSpeed: 40,
         loop: true
